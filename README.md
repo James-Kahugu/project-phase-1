@@ -1,2 +1,4 @@
-# project-phase-1
-First project
+# Microsoft Movie Project
+#Author: James Kahugu
+##Overview
+
