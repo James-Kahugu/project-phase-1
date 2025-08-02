@@ -19,7 +19,13 @@ Most sample movies seem to be evenly distributed with an animation having the hi
 
 # Conclusion
 This analysis leads to a few reccomendations for starting on movies creation.
-# .Movie type. According to the titles the movies that have a lot of science fiction and animations seem to have a higher distribution thus having a good performance overall.
+*MOVIE TYPE
+ Movies that have a lot of science fiction and animations seem to have a higher distribution thus having a good performance overall.
+*STUDIO CHOICE
+ Choosing the right studio to work with in the movie production industry also plays a key role on the overall performance of the movies.
+*MARKETING
+ The team should focus on the right market plans as seems the movies have a relation in both foreign and domestic gross.
+ 
 
 
 
