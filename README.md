@@ -1,4 +1,5 @@
 # Microsoft Movie Project
-#Author: James Kahugu
-##Overview
+# Author: James Kahugu
+
+# Overview
 
