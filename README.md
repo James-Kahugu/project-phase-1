@@ -1,5 +1,5 @@
 # Microsoft Movie Project
-#Author: James Kahugu
+ Author: James Kahugu
 
 # Overview
 This project analyzes the movies from box office over a few years. It shows the movie titles, studios and both foreign and domestic gross of the movies. Microsoft can use this data to help them get started with the new movie project.
@@ -19,8 +19,7 @@ Most sample movies seem to be evenly distributed with an animation having the hi
 
 # Conclusion
 This analysis leads to a few reccomendations for starting on movies creation.
-
-# .
+# .Movie type. According to the titles the movies that have a lot of science fiction and animations seem to have a higher distribution thus having a good performance overall.
 
 
 
